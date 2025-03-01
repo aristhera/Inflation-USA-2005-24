@@ -1,2 +1,2 @@
-# Inflation-USA-2005-24
-Was there any significant inflation in the USA?
+# Inflation-USA-2005-2024
+Was there any significant inflation in the USA? Looking at https://edition.cnn.com/election/2024/exit-polls/national-results/general/president/0 strongly suggests that Trump was voted for economical reasons that are not only unsubstantiated but simply wrong. Let's have alook at the CPI-Data on https://www.bls.gov/charts/consumer-price-index/consumer-price-index-average-price-data.htm and analyse it via LibreOffice Calc and Python.Consensus in every central bank in the whole wide world is annual growth of close to but slightly below 2% (that's 1.019 in my code)
